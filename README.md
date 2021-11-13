@@ -8,7 +8,7 @@ The code listed below was something I was given under MacDigital360, I was new t
 FourchinCookei-Money/FourchinCookei-Money is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# MacDigital360
+# Fourchin Cookei Money
 Owner &amp; Creator of https://boogle360.com, https://booski360.com
 # Scientist!
 
