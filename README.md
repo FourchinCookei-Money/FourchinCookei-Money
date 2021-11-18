@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [FourchinCookei-Money](https://fourchincookei.money) Owner of [MacDigital360](https://github.com/MacDigital360) github. 
 - 👀 I’m interested in Blockchain Development Webapp Creator
-- 🌱 I’m currently learning EIP2535, implementing with Smart Contracts.
+- 🌱 I’m currently learning EIP2535 diamondCut(), implementing with Smart Contracts.
 - 💞️ I’m looking to collaborate on Ethereum Blockchain, and bringing the EIP-2535 in to the Cloud, Google Cloud.
 - 📫 How to reach me best by my email thats in my website **https://fourchincookei.money**
 The code listed below was something I was given under MacDigital360, I was new to Github so that account is always RED FLAGGED but i know understand github and wanted to start fresh. 
