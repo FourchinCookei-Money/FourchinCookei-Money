@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning [EIP2535 diamondCut()](https://eips.ethereum.org/EIPS/eip-2535), implementing with Smart Contracts.
 - 💞️ I’m looking to collaborate on Ethereum Blockchain, and bringing the EIP-2535 in to the Cloud, Google Cloud.
 - 📫 How to reach me best by my email thats in my website **https://fourchincookei.money**
-- 💎 [metis-dac.eth](https://rinkeby.etherscan.io/token/0x171ab693b136c932d10d72f6fdef19eec754bb24?a=0x59B9387F0643264f35E75903e74F27391374b0bb)
+- 💎 [metis-dac.eth](https://metis-dac.io) whats a four [chin cookei money](https://fourchincookei.money)
 The code listed below was something I was given under MacDigital360, I was new to Github so that account is always RED FLAGGED but i know understand github and wanted to start fresh. 
 <!---
 FourchinCookei-Money/FourchinCookei-Money is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
