@@ -1,10 +1,11 @@
 - 👋 Hi, I’m [FourchinCookei-Money](https://fourchincookei.money) Owner of [MacDigital360](https://github.com/MacDigital360) github. 
-- 👀 I’m interested in Blockchain Development Webapp Creator
+- 👀 I’m interested in Blockchain Development creating Webapp's is fun to do
 - 🌱 I’m currently learning [EIP2535 diamondCut()](https://eips.ethereum.org/EIPS/eip-2535), implementing with Smart Contracts.
 - 💞️ I’m looking to collaborate on Ethereum Blockchain, and bringing the EIP-2535 in to the Cloud, Google Cloud.
 - 📫 How to reach me best by my email thats in my website **https://fourchincookei.money**
 - 💎 My projct landing page [metis-dac.eth](https://metis-dac.io). Whats a [fourchin cookei money](https://fourchincookei.money)? see the landing page
 - 👨‍💻 My [Linkedin](https://www.linkedin.com/in/booski360-boogle360) page so you know how real I am.
+- 🦄 My Google [developers website](https://developers.google.com/profile/u/rubenestrada) 
 The code listed below was something I was given under MacDigital360, I was new to Github so that account is always RED FLAGGED but i know understand github and wanted to start fresh. 
 <!---
 FourchinCookei-Money/FourchinCookei-Money is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
